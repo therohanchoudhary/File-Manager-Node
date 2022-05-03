@@ -1,0 +1,14 @@
+{
+  "name": "file-manager-node",
+  "version": "1.0.0",
+  "description": "This is a basic file management script created in NodeJS.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohan Choudhary",
+  "license": "ISC",
+  "bin": {
+    "orgFile": "main.js"
+  }
+}
